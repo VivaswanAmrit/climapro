@@ -70,6 +70,7 @@ Display current weather conditions including temperature, humidity, wind speed, 
 ![WeatherApp Screenshot](screenshots/2l.jpeg)
 
 ![WeatherApp Screenshot](screenshots/3s.jpeg)
+![image](https://github.com/user-attachments/assets/d48d0caa-33a1-4dfa-aa79-129fcdd3d26b)
 
 
 

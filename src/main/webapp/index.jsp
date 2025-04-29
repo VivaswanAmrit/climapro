@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Weather App - Weather Details</title>
+<title>ClimaPro - Weather Details</title>
 <link rel="stylesheet" href="jsp-style.css" />
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">

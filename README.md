@@ -70,6 +70,8 @@ Display current weather conditions including temperature, humidity, wind speed, 
 
 ![image](https://github.com/user-attachments/assets/aeefbf43-38d6-470c-bdaf-bf0e5f8126f9)
 
+![image](https://github.com/user-attachments/assets/165ea17f-9843-4067-a05a-1a8203fd9ff7)
+
 
 
 

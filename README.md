@@ -1,7 +1,7 @@
 # WeatherApp USING JAVA SERVLET JSP
 
 ## Description
-ClimaPro is a simple Java web application developed using Servlets, JSP, HTML, CSS, and JavaScript. It integrates with the OpenWeatherMap API to fetch weather data for a given city and display it to the user.
+ClimaPro is a Java web application developed using Servlets, JSP, HTML, CSS, and JavaScript. It integrates with the OpenWeatherMap API to fetch weather data for a given city and display it to the user.
 
 ## Features
 Fetch weather data based on the user's input city name.
